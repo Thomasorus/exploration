@@ -1,0 +1,66 @@
+# Title 1
+
+## Title 2
+
+### Title 3
+
+#### Title 4
+
+#### Title 5
+
+###### Title 6
+
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras hendrerit convallis efficitur. Nulla rutrum sem et imperdiet accumsan. Fusce placerat, purus eu sollicitudin ullamcorper, tortor felis elementum magna, quis interdum ipsum diam id ligula.
+
+ In efficitur porttitor urna non pulvinar.
+ Integer aliquet consequat mi aliquam lobortis. Sed elementum, sem nec ultrices feugiat, purus velit ultricies magna, sed aliquam arcu ante nec leo.
+
+ In pulvinar, dui a faucibus iaculis, erat odio sollicitudin lacus, eget feugiat neque lorem eu purus. Duis iaculis convallis sem, at pretium dui faucibus ultrices. Duis interdum elit sit amet leo congue fringilla. Cras non ipsum neque. Duis nec odio id arcu mattis posuere.
+
+*Bold text*
+
+_Italic Text_
+
+`code text`
+
+```
+code block
+```
+
+~stike text~
+
+- AAA
+- BBB
+- CCC
+
++ Number 1
++ Number 2
++ Number 3
+
+? Term 1 : definition 1
+? Term 2 : definition 2
+
+----
+
+{This is a side note}
+
+{ aside text }
+
+(quote: I am the quoted text! author: Author of quote source: Source of quote link: url_of_quote)
+
+(link: https://github.com/Thomasorus/Kaku text: Check the this link to the repo! label: Link to Kaku's repo title: Hover title)
+
+(image: img_url, alt: the alternate text figcaption: the text under the image)
+
+(video: videoUrl)
+
+(video: videoUrl autoplay)
+
+(audio: audioUrl)
+
+(details: content of the details block summary: Summary of the details block)
+
+[ ] opened task
+[@] ongoing task
+[~] pause or abandonned task
+[x] completed task
